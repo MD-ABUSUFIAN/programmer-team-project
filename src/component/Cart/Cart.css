@@ -1,0 +1,9 @@
+.cart{
+    border:10px solid goldenrod;
+    color: honeydew;
+    width: 350px;
+    height: 800px;
+    margin: 5px;
+    padding: 5px;
+    border-radius: 10px;
+}
