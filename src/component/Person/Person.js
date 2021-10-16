@@ -6,7 +6,7 @@ const Person = (props) => {
     const {Name,img,Occupation,Nationality,Born,Salery }=props.person || {}
     
     return (
-        <div className="col-md-3 col-lg-4 col-3 person">
+        <div className="col-md-6 col-lg-6 col-12 person">
         
       <div class="person-photo">
         <img  src={img} className="image img-fluid mx-auto" alt="..."/>
